@@ -4,11 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ba29bed6-b7e3-4916-98b5-e00893f8638d" name="Default Changelist" comment="" />
+    <list default="true" id="ba29bed6-b7e3-4916-98b5-e00893f8638d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/admin/admin/src/utils/menu.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/admin/admin/src/utils/menu.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/admin/admin/src/views/login.vue" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/admin/admin/src/views/login.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/admin/admin/src/views/modules/orders/hotels/jiudiandingdan/list.vue" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/admin/admin/src/views/modules/orders/hotels/jiudiandingdan/list.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/admin/admin/src/views/modules/orders/hotels/jiudianquxiaodingdan/list.vue" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/admin/admin/src/views/modules/orders/hotels/jiudianquxiaodingdan/list.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/admin/admin/src/views/modules/orders/tickets/jingdiangoupiaodingdan/list.vue" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/admin/admin/src/views/modules/orders/tickets/jingdiangoupiaodingdan/list.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/admin/admin/src/views/modules/orders/tickets/jingdianquxiaodingdan/list.vue" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/admin/admin/src/views/modules/orders/tickets/jingdianquxiaodingdan/list.vue" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
@@ -26,7 +37,9 @@
     &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
     &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
     &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;Spring Boot.SpringbootSchemaApplication.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;D:/new/springboot073x3&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
@@ -117,7 +130,9 @@
       <workItem from="1739877666402" duration="1358000" />
       <workItem from="1739879417910" duration="2501000" />
       <workItem from="1740571069445" duration="3443000" />
-      <workItem from="1740634837528" duration="1837000" />
+      <workItem from="1740634837528" duration="2439000" />
+      <workItem from="1740666111923" duration="1845000" />
+      <workItem from="1740704477611" duration="2769000" />
     </task>
     <servers />
   </component>
